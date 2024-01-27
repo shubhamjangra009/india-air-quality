@@ -1,5 +1,6 @@
 ### Project Link Below:
 https://public.tableau.com/app/profile/shubham.jangra/viz/india-air-quality-data/MainDashboard
+#### Or you download the .twbx file from repository
 
 ## About the Project
 <ins>Air Quality Data (Tableau)</ins> 
