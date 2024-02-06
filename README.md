@@ -2,6 +2,8 @@
 https://public.tableau.com/app/profile/shubham.jangra/viz/india-air-quality-data/MainDashboard
 #### Or you download the .twbx file from repository
 
+##### _NOTE: Convert xlsx file to csv with same name then workbook will work perfectly_  
+
 ## About the Project
 <ins>Air Quality Data (Tableau)</ins> 
 
